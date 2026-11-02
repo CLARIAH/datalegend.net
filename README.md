@@ -25,12 +25,9 @@ Images live in `images/`. Styling is in `styles/`, and navigation in `_quarto.ym
 quarto preview
 ```
 
-## First-time setup on GitHub
+## Publishing
 
-1. Push this repository to GitHub.
-2. Run the publish workflow once (Actions → Publish site). It creates the `gh-pages` branch.
-3. In Settings → Pages, set the source to "Deploy from a branch", branch `gh-pages`, folder `/`.
-4. In Settings → Pages → Custom domain, enter `datalegend.net` and enable "Enforce HTTPS" once the certificate is issued.
+Every push to `main` builds the site and deploys it with GitHub Actions (`.github/workflows/publish.yml`). GitHub Pages is set to "GitHub Actions" as its source in Settings → Pages. Once DNS points here, set the custom domain to `datalegend.net` there and enable "Enforce HTTPS".
 
 ## DNS (for whoever manages datalegend.net)
 
