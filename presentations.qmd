@@ -1,0 +1,28 @@
+---
+title: "Presentations"
+description: "Slides from talks by the dataLegend team, hosted on SlideShare."
+---
+
+<!-- Titles were reconstructed from the SlideShare document names in the old site; please check. -->
+
+## 2019–2021
+
+- [Lunch lecture: Ruben Schalk (Feb 2021)](https://www.slideshare.net/slideshow/embed_code/242581574)
+- [HackaLOD: Ruben Schalk](https://www.slideshare.net/slideshow/embed_code/242581914)
+- [ESDG Nijmegen: Auke Rijpma](https://www.slideshare.net/slideshow/embed_code/244067433)
+- [LINKS presentation, 29 October 2019](https://www.slideshare.net/slideshow/embed_code/244067440)
+- [SSHA 2019](https://www.slideshare.net/slideshow/embed_code/244067448)
+- [Introduction to LINKS, 23 April 2019](https://www.slideshare.net/slideshow/embed_code/244069035)
+- [Rijpma et al.](https://www.slideshare.net/slideshow/embed_code/138630222)
+
+## 2015–2018
+
+- [ESSHC 2018: grlc and reproducibility](https://www.slideshare.net/slideshow/embed_code/138623042)
+- [WEHC 2018](https://www.slideshare.net/slideshow/embed_code/138630283)
+- [ESSHC 2018: Ashkan Ashkpour](https://www.slideshare.net/slideshow/embed_code/138635086)
+- [CLARIAH presentation, 7 October 2016: Ashkan Ashkpour](https://www.slideshare.net/slideshow/embed_code/66962849)
+- [grlc at SALAD / ESWC 2016](https://www.slideshare.net/slideshow/embed_code/63744149)
+- [CLARIAH WP4, 20 May 2016](https://www.slideshare.net/slideshow/embed_code/62269670)
+- [CSDH/SCHN: Rinke Hoekstra, 16 December 2015](https://www.slideshare.net/slideshow/embed_code/56233916)
+- [Posthumus: Rinke Hoekstra, 10 June 2015](https://www.slideshare.net/slideshow/embed_code/49494690)
+- [CSDH/SCHN: CLARIAH introduction (2015)](https://www.slideshare.net/slideshow/embed_code/49458918)

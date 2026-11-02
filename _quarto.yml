@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "dataLegend"
+  description: "Linked Data tooling and research for economic and social history, developed within CLARIAH."
+  site-url: https://datalegend.net
+  repo-url: https://github.com/CLARIAH/datalegend.net
+  repo-actions: [edit, issue]
+  page-navigation: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: tools.qmd
+        text: Tools
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: teaching.qmd
+        text: Teaching
+      - href: team.qmd
+        text: Team
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/CLARIAH
+        aria-label: CLARIAH on GitHub
+  page-footer:
+    left: "dataLegend · part of [CLARIAH](https://www.clariah.nl)"
+    right: "Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/theme.scss]
+      dark: [cosmo, styles/theme.scss, styles/dark.scss]
+    css: styles/hero.css
+    toc: true
+    toc-depth: 2
+    link-external-newwindow: true
+    lang: en

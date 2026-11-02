@@ -1,0 +1,111 @@
+---
+title: "Tools"
+description: "The dataLegend pipeline: transpose, reuse, query."
+---
+
+<!-- TODO: check each link and status below; some services (e.g. Cattle) may no longer be online. -->
+
+The dataLegend tools form a pipeline in three steps: **transpose** your data to RDF, **reuse** existing vocabularies, and **query** across datasets.
+
+## 1. Transpose
+
+To link your own dataset, you first need to *transpose* it to RDF. Both routes below turn a CSV or Excel file into RDF. Each generates a basic conversion script. Enrich that script (by hand, or with the Ruminator tool) to create more meaningful RDF.
+
+- If you are comfortable with the command line or editing scripts, use **COW** (CSV on the Web converter).
+- If you prefer a web page with a graphical interface, use **Cattle**, or do everything inside **Druid**.
+
+::: {.tool-grid}
+
+::: {.tool-card}
+[![](images/tools/cow.png){fig-alt="COW logo"}](https://github.com/CLARIAH/COW/wiki)
+
+### COW
+
+Command-line converter from CSV to Linked Data.
+
+[Documentation](https://github.com/CLARIAH/COW/wiki) · [Code](https://github.com/CLARIAH/COW)
+
+[Difficulty: easy to intermediate]{.meta}
+:::
+
+::: {.tool-card}
+[![](images/tools/cattle.png){fig-alt="Cattle logo"}](http://cattle.datalegend.net/)
+
+### Cattle
+
+Web interface to COW: upload a CSV, get RDF back.
+
+[cattle.datalegend.net](http://cattle.datalegend.net/)
+
+[Difficulty: very easy]{.meta}
+:::
+
+::: {.tool-card}
+[![](images/tools/druid.png){fig-alt="Druid logo"}](https://druid.datalegend.net/)
+
+### Druid
+
+Online environment to upload, convert, edit, query and present your datasets.
+
+[druid.datalegend.net](https://druid.datalegend.net/)
+
+[Difficulty: easy]{.meta}
+:::
+
+:::
+
+## 2. Reuse
+
+To help you get going, we provide several vocabularies for the domain of social and economic history. When datasets reuse the same vocabularies, similar items are described the same way, which makes data easier to find and link. [LSD Dimensions](http://lsd-dimensions.org) lets you search a wide range of other vocabularies on the semantic web.
+
+<!-- TODO: link the dataLegend vocabularies (the old site had a "Vocabularies" label without a link). -->
+
+## 3. Query
+
+The essential part of Linked Data is the *linked* part. You write a SPARQL query that defines the elements of interest across datasets. Druid helps you write such queries. Not everyone can write SPARQL, though, so we also provide **grlc**, which lets you share queries on the Web so anyone can run them. Parts of a SPARQL query (time period, country, language) are easy to read, so even newcomers can adapt them.
+
+::: {.tool-grid}
+
+::: {.tool-card}
+[![](images/tools/druid.png){fig-alt="Druid logo"}](https://druid.datalegend.net/)
+
+### Druid
+
+Write and run SPARQL queries in the browser.
+
+[druid.datalegend.net](https://druid.datalegend.net/)
+:::
+
+::: {.tool-card}
+[![](images/tools/grlc.png){fig-alt="grlc logo"}](https://grlc.io/)
+
+### grlc
+
+Turn SPARQL queries stored on GitHub into a Web API.
+
+[grlc.io](https://grlc.io/) · [Code](https://github.com/CLARIAH/grlc)
+
+[Difficulty: very easy]{.meta}
+:::
+
+:::
+
+## Which tool suits you?
+
+Every user has a different background and a different level of familiarity with Linked Data. Some tools are easier to learn than others. This overview gives an approximate difficulty for each.
+
+| Tool | Difficulty | Notes |
+|------|------------|-------|
+| **COW** | Easy to intermediate | Installing is straightforward and most CSVs need no adjusting. Customising the conversion needs some command-line experience. |
+| **Cattle** | Very easy | The web page converts most CSV files without problems. For bigger datasets, use COW. Think of Cattle as the streamlined tool and COW as the versatile one. |
+| **Metadata** (manual or **Ruminator**) | Easy to intermediate | COW and Cattle need a metadata file that describes your dataset (column types, creator and more). Edit it in a text editor or with Ruminator's graphical interface to enrich your data. |
+| **Druid** | Easy | Many options, but powerful tools in an easy package. Knowing SPARQL helps but is not required. |
+| **grlc** | Very easy | Generates an API from your SPARQL queries. Straightforward once the rest of the pipeline is done. |
+
+## Older tools
+
+Over the years dataLegend has developed several other tools to create, inspect and manage Linked Data. They are no longer part of the pipeline, but deserve an honourable mention.
+
+- **QBer**: a visual interface for automatically converting CSV files to Linked Data.
+- **BRWSR**: a straightforward browser for Linked Data files.
+- **Inspector**: used within QBer to visualise datasets, dimensions and users as an interactive graph.

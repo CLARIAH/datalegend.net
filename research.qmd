@@ -1,0 +1,35 @@
+---
+title: "Research"
+description: "Economic, social and demographic history research using CLARIAH tooling."
+---
+
+dataLegend tools exist to serve research. This page collects studies in economic, social and demographic history that use CLARIAH tooling and Linked Data.
+
+<!--
+TODO: this page is new; the old WordPress site had no equivalent. Suggested format per project:
+
+## Project title
+
+One-paragraph summary of the research question.
+
+- **Data:** datasets used (with links to Druid / Dataverse)
+- **Tooling:** which CLARIAH tools were used and how
+- **Output:** papers, notebooks, queries (grlc links)
+
+Projects can also be written as Quarto notebooks (.qmd with R or Python code) and listed here.
+-->
+
+::: {.callout-note}
+## Coming soon
+
+We are adding case studies here. Have a project that uses dataLegend or CLARIAH tooling? [Get in touch](contact.qmd) or [open a pull request](https://github.com/CLARIAH).
+:::
+
+## Earlier projects
+
+- **HHuCap: The History of Human Capital**: CLARIAH research pilot (2017) by Richard Zijdeman, Antske Fokkens, Auke Rijpma and Martijn Kleppe.
+- **Linking past and present**: augmenting historical municipality characteristics through harmonisation and linkage with contemporary data (DANS KDP, 2017), by Richard Zijdeman and Ashkan Ashkpour.
+- **TRUMP: The RDF Unified Migration Portal**: research master scholarship, by Auke Rijpma, Kathrin Dentler, Rinke Hoekstra, Albert Meroño-Peñuela and Richard Zijdeman.
+- **Dutch historical censuses as Linked Data (CEDAR)**: harmonisation of the aggregate Dutch historical censuses in RDF. See [Publications](publications.qmd).
+- **Record linkage for the Cape of Good Hope Panel**, by Auke Rijpma.
+- **If Buildings Could Talk**: constructing buildings' biographies with Linked Data, by Marieke van Erp and Richard Zijdeman (audience award, Hack-a-LOD 2016).

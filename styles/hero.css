@@ -1,0 +1,9 @@
+/* Plain CSS (not SCSS) so the relative image path survives the build. */
+.hero {
+  background: linear-gradient(rgba(22, 50, 74, 0.55), rgba(22, 50, 74, 0.75)),
+    url("../images/banner.jpg") center / cover no-repeat;
+}
+.hero a:not(.btn) {
+  color: #fff;
+  text-decoration: underline;
+}

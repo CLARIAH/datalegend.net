@@ -1,0 +1,16 @@
+---
+title: "Contact"
+toc: false
+---
+
+- **Email:** richard.zijdeman AT iisg.nl
+- **Code & data:** [CLARIAH on GitHub](https://github.com/CLARIAH)
+
+## Visiting address
+
+International Institute of Social History\
+Cruquiusweg 31\
+1019 AT Amsterdam\
+The Netherlands
+
+[View on OpenStreetMap](https://www.openstreetmap.org/search?query=Cruquiusweg%2031%20Amsterdam)

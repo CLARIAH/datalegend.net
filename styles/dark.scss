@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$body-bg: #121a22;
+$body-color: #dde3ea;
+$primary: #6fb1df;
+$link-color: $primary;
+$footer-bg: #0d141b;
+
+/*-- scss:rules --*/
+.tool-card {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+.tool-card img {
+  background: #fff;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+}

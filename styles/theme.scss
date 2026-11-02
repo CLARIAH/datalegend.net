@@ -1,0 +1,83 @@
+/*-- scss:defaults --*/
+$primary: #1f5f8b;
+$link-color: $primary;
+$navbar-bg: #16324a;
+$navbar-fg: #ffffff;
+$footer-bg: #f4f6f8;
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+/*-- scss:rules --*/
+.hero {
+  position: relative;
+  margin: -1rem -1rem 2.5rem;
+  padding: 5rem 2rem 4rem;
+  color: #fff;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+  border: none;
+  color: #fff;
+}
+.hero p {
+  font-size: 1.2rem;
+  max-width: 42rem;
+  margin: 0;
+}
+.hero .btn {
+  margin-top: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.tool-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+.tool-card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  background: var(--bs-body-bg);
+}
+.tool-card img {
+  max-width: 180px;
+  height: auto;
+  margin-bottom: 0.75rem;
+}
+.tool-card h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+.tool-card .meta {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 1.5rem;
+  text-align: center;
+  margin: 1.5rem 0;
+}
+.team-grid .avatar {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $primary;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.team-grid strong {
+  display: block;
+}

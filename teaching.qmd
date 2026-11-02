@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+Linked Data is fairly new, and we are happy to give a workshop or lecture to introduce you to it.
+
+For master's and PhD students in economic and social history, we organise a yearly course in data management for historians. Students learn to work according to the FAIR data principles, cover the basics of quantitative data management, and build and query their own Linked Data.
+
+The course runs for 8 weeks, in which experts in the field discuss:
+
+1. The principles of FAIR data
+2. Databases and scripts
+3. Pipelines and data cleaning
+4. Data visualisation
+5. The quantitative research cycle
+6. The principles of Linked Data
+7. Querying Linked Data
+8. Working with Linked Data
+
+For more information and to enrol, see the [Posthumus Institute course page](https://posthumusinstitute.org/course-data-management-for-historians/).
+
+<!-- TODO: the old site offered the course manual "Posthumus data management course 2020-21" (PDF). Add it under files/ and link it here, or link a newer edition. -->

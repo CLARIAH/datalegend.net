@@ -1,0 +1,86 @@
+---
+title: "Team"
+toc: false
+---
+
+<!--
+TODO: affiliations are as listed on the old site (2019); please update.
+Photos: save them as images/team/<firstname>.jpg and replace the <span class="avatar">..</span>
+with ![](images/team/<firstname>.jpg){.avatar fig-alt="<Name>"}
+-->
+
+::: {.team-grid}
+
+::: {}
+[RZ]{.avatar}
+**Richard Zijdeman**
+International Institute of Social History · University of Stirling
+:::
+
+::: {}
+[AR]{.avatar}
+**Auke Rijpma**
+Utrecht University
+:::
+
+::: {}
+[RS]{.avatar}
+**Ruben Schalk**
+Utrecht University
+:::
+
+::: {}
+[AM]{.avatar}
+**Albert Meroño-Peñuela**
+Vrije Universiteit Amsterdam
+:::
+
+::: {}
+[LR]{.avatar}
+**Laurens Rietveld**
+Triply
+:::
+
+::: {}
+[JR]{.avatar}
+**Joe Raad**
+Vrije Universiteit Amsterdam
+:::
+
+::: {}
+[RW]{.avatar}
+**Roderick van der Weerdt**
+International Institute of Social History
+:::
+
+::: {}
+[BH]{.avatar}
+**Bram van den Hout**
+International Institute of Social History
+:::
+
+::: {}
+[RM]{.avatar}
+**Rick Mourits**
+Utrecht University
+:::
+
+::: {}
+[RH]{.avatar}
+**Rinke Hoekstra**
+Elsevier
+:::
+
+::: {}
+[KD]{.avatar}
+**Kathrin Dentler**
+Freelance Linked Data expert
+:::
+
+::: {}
+[AA]{.avatar}
+**Ashkan Ashkpour**
+International Institute of Social History
+:::
+
+:::

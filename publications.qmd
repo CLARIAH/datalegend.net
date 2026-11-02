@@ -1,0 +1,103 @@
+---
+title: "Publications"
+description: "Articles, awards, books and teaching by the dataLegend team."
+---
+
+<!-- Migrated from the old WordPress site (last updated around 2019). Consider moving this to a BibTeX file and using a Quarto listing. -->
+
+## Articles (incl. conference papers, presentations and demo’s)
+
+- Ashkan Ashkpour. “Theory and Practice of Historical Census Data Harmonization. The Dutch Historical Census Use Case: A flexible, structured and accountable approach using Linked Data. Erasmus University (2019). PhD Thesis.
+- Albert Meroño-Peñuela, Marnix van Berchum, Bram van den Hout. “The Oldest Song Score in the Newest Notation: The Hurrian Hymn to Nikkal as Linked Data”. Digital Humanities Conference (DH2019), Utrecht, July 9-12 (2019)
+- Albert Meroño-Peñuela, Ashkan Ashkpour, Richard Zijdeman, Rinke Hoekstra. “Making Social Science More Reproducible by Encapsulating Access to Linked Data”. In: European Social Science History Conference (ESSHC 2018), 4-7 April, Belfast, North Ireland, UK (2018)
+- Albert Meroño-Peñuela, Ashkan Ashkpour, Valentijn Gilissen, Jan Jonker, Tom Vreugdenhil, Peter Doorn. “Improving Access to the Dutch Historical Censuses with Linked Open Data”. Research Data Journal for the Humanities and Social Sciences (in print) (2018)
+- Ashkan Ashkpour, Albert Meroño-Peñuela. "LOCS AND KEYS: Linked Open Classification System and Opening up Knowledge". 12th European Social Science History Conference. Belfast United Kingdom (2018).
+- Rinke Hoekstra, Albert Meroño-Peñuela, Auke Rijpma, Richard Zijdeman, Ashkan Ashkpour, Kathrin Dentler, Ivo Zandhuis, Laurens Rietveld. “The dataLegend Ecosystem for Historical Statistics”. Journal of Web Semantics: Science, Services and Agents on the World Wide Web, volume 50, pp. 49-61 (2018)
+- Tobias Kuhn, Albert Meroño-Peñuela, Alexander Malic, Jorrit H. Poelen, Allen H. Hurlbert, Emilio Centeno Ortiz, Laura I. Furlong, Núria Queralt-Rosinach, Christine Chichester, Juan M. Banda, Egon Willighagen, Friederike Ehrhart, Chris Evelo, Tareq B. Malas, Michel Dumontier. “Nanopublications: A Growing Resource of Provenance-Centric Scientific Linked Data”. IEEE eScience Conference 2018, 29 October – 1 November, Amsterdam, The Netherlands (2018)
+- Ruben Schalk, Auke Rijpma & Richard Zijdeman, 'Clariah Datalegend: Linked Economic and Social History Datasets in the Cloud', World Economic History Conference, Boston (August 2018)
+- Ashkan Ashkpour. LICR Classification System for Religions. (2017). [https://datasets.socialhistory.org/dataverse/LICR](https://datasets.socialhistory.org/dataverse/LICR)
+- Ashkan Ashkpour. [http://www.licr.io](http://www.licr.io) An interface linking to different tools and systems in CLARIAH WP4. (2017).
+- Ashkan Ashkpour. QBer Demonstration, CLARIAH Tech Dag, Utrecht 7 oktober 2016. [http://www.clariah.nl/evenementen/tech-dag-2016](http://www.clariah.nl/evenementen/tech-dag-2016).
+- Ashkpour, A., Mandemakers, K., & Boonstra, O. W. A. (2016). Source Oriented Harmonization of Aggregate Historical Census Data: a flexible and accountable approach in RDF. Historical Social Research. 41(4) pp. 296-307.
+- Ashkan Ashkpour and Albert Meroño Peñuela. Linked Classifications Systems and Religion. Conference: SSHA, Montreal, Canada, November 2-5, 2017.
+- Antal van den Bosch, Lex Heerma van Voss, Karina van Dalen-Oskam and Richard L. Zijdeman, 2017. *Panel Digital Humanities*. [online] Available at: [https://www.eventbrite.nl/e/tickets-knaw-humanities-cluster-opening-29740908859](https://www.eventbrite.nl/e/tickets-knaw-humanities-cluster-opening-29740908859)
+- Francesca Ceolan, Dimitris Alivanistos, Kathrin Dentler, and Auke Rijpma. 2017. [Artificial Intelligence and Simulation of Behaviour Convention](http://www.aisb.org.uk/). The benefits of Linked Data for the Social Sciences. Analyzing economic drivers and network effects of international migration based on semantically integrated data. Forthcoming.
+- Rinke Hoekstra [**QBer - Connect your data to the cloud**](https://www.slideshare.net/rinkehoekstra/qber-connect-your-data-to-the-cloud)
+- Rinke Hoekstra and Meroño-Peñuela. [**QBer - Crowd Based Coding and Harmonization using Linked Data**](https://www.slideshare.net/rinkehoekstra/qber-crowd-based-coding-and-harmonization-using-linked-data)
+- Albert Meroño Peñuela, Ashkan Ashkpour, Actionable Data Links: Tools for Reproducibility in Social Science and History. Conference: SSHA, Montreal, Canada, November 2-5, 2017.
+- Rinke Hoekstra & Stefan Slobach [Knowledge Representation on the Web](https://www.slideshare.net/rinkehoekstra/knowledge-representation-on-the-web-69631798)
+- Victor de Boer, Albert Meroño-Peñuela, Niels Ockeloen. “Linked Data for Digital History. Lessons Learned from Three Case Studies”. Mirella Romer Recio, M. Jesús Colmenero (eds.). Historiografía digital: proyectos para almacenar y construir la Historia. Anejos de la Revista de Historiografía 4. Universidad Carlos III de Madrid (2016). ([PDF](http://www.victordeboer.com/wp-content/uploads/2016/04/LinkedDataforDigitalHistory_submitted.pdf))
+- Rinke Hoekstra, Albert Meroño-Peñuela, Kathrin Dentler, Auke Rijpma, Richard Zijdeman & Ivo Zandhuis [**An Ecosystem for Linked Humanities Data**](https://www.slideshare.net/rinkehoekstra/an-ecosystem-for-linked-humanities-data)
+- Albert Meroño-Peñuela, Ashkan Ashkpour. “Historical Quantitative Reasoning on the Web”. European Social Science History Conference (ESSHC 2016), Valencia, Spain (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/esshc-2016-14233-historical-quantitative-reasoning.pdf))
+- Albert Meroño-Peñuela, Rinke Hoekstra. “grlc Makes GitHub Taste Like Linked Data APIs”. SALAD 2016 — Services and Applications over Linked Data APIs and Data. International workshop, ESWC 2016, May 29th, Heraklion, Crete, Greece (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/SALAD2016_paper_4.pdf)) Best [SALAD2016](http://salad2016.linked.services/) paper award
+- Rinke Hoekstra, Albert Meroño-Peñuela, Kathrin Dentler, Auke Rijpma, Richard Zijdeman, Ivo Zandhuis. “An Ecosystem for Linked Humanities Data”. In: Proceedings of the 1st Workshop on Humanities in the SEmantic web (WHiSE 2016). ESWC 2016, May 29th, Heraklion, Crete, Greece (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/WHiSe_2016_paper_4.pdf)) Best [WHiSE2016](http://whise.kmi.open.ac.uk/) paper award
+- Albert Meroño-Peñuela. “Refining Statistical Data on the Web”. Vrije Universiteit Amsterdam (2016) ([Amazon](https://www.amazon.co.uk/Refining-Statistical-Albert-Mero%C3%B1o-Pe%C3%B1uela/dp/1530412331/ref=sr_1_1?ie=UTF8&qid=1470904303&sr=8-1&keywords=refining+statistical+data+on+the+web)) ([VU-DARE](http://dare.ubvu.vu.nl/bitstream/handle/1871/54331/complete_dissertation.pdf?sequence=1&isAllowed=y)) PhD thesis
+- Ashkan Ashkpour, Albert Meroño-Peñuela, Kees Mandemakers. “The Aggregate Dutch Historical Censuses: Harmonization and RDF”. Historical Methods: A Journal of Quantitative and Interdisciplinary History, 48(4), pp. 230-245, 2015. ([PDF](http://www.albertmeronyo.org/wp-content/uploads/2015/12/016154402E20152E1026009.pdf))
+- Albert Meroño-Peñuela, Ashkan Ashkpour, Andrea Scharnhorst, Christophe Guéret, Sally Wyatt. “Linked Open Census Data”. DHCommons Journal, 1st issue. ([PDF](http://www.albertmeronyo.org/wp-content/uploads/2015/07/DHCommonsCEDARProjectStatement_A.pdf)) ([HTML](http://dhcommons.org/journal/issue-1/cedar-linked-open-census-data))
+- Albert Meroño-Peñuela, Christophe Guéret, Stefan Schlobach. “Linked Edit Rules: A Web Friendly Way of Checking Quality of RDF Data Cubes”. Proceedings of the 3rd International Workshop on Semantic Statistics (SemStats 2015), ISWC 2015, Bethlehem, PA, USA (2015). ([PDF](http://www.albertmeronyo.org/wp-content/uploads/2015/08/SemStats_2015_paper_3_A.pdf))
+- Bas Stringer, Albert Meroño-Peñuela, Antonis Loizou, Sanne Abeln, Jaap Heringa. “To SCRY Linked Data: Extending SPARQL the Easy Way”. Diversity++ workshop, ISWC 2015, Bethlehem, PA, USA (2015). ([PDF](http://www.albertmeronyo.org/wp-content/uploads/2015/08/scry-linked-data_A-CR.pdf))
+- Albert Meroño-Peñuela, Ashkan Ashkpour, Marieke van Erp, Kees Mandemakers, Leen Breure, Andrea Scharnhorst, Stefan Schlobach, Frank van Harmelen. “Semantic Technologies for Historical Research: A Survey”. Semantic Web — Interoperability, Usability, Applicability, 6(6), pp. 539–564. IOS Press (2015). [http://www.semantic-web-journal.net/content/semantic-technologies-historical-research-survey-0](http://www.semantic-web-journal.net/content/semantic-technologies-historical-research-survey-0) ([PDF](http://www.semantic-web-journal.net/system/files/swj588_0.pdf))
+- Albert Meroño-Peñuela, Ashkan Ashkpour, Christophe Guéret, Stefan Schlobach. “CEDAR: The Dutch Historical Censuses as Linked Open Data”. Semantic Web — Interoperability, Usability, Applicability, 8(2), pp. 297–310. IOS Press (2015). [http://semantic-web-journal.net/content/cedar-dutch-historical-censuses-linked-open-data-1](http://semantic-web-journal.net/content/cedar-dutch-historical-censuses-linked-open-data-1) ([PDF](http://semantic-web-journal.net/system/files/swj1234.pdf))
+- Albert Meroño-Peñuela, Rinke Hoekstra. “The Song Remains the Same: Lossless Conversion and Streaming of MIDI to RDF and Back”. In: 13th Extended Semantic Web Conference (ESWC 2016), posters and demos track. May 29th — June 2nd, Heraklion, Crete, Greece (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/ESWC2016_PD_paper_57.pdf))
+- Albert Meroño-Peñuela, Rinke Hoekstra. “SPARQL2Git: Transparent SPARQL and Linked Data API Curation via Git”. In: 14th Extended Semantic Web Conference (ESWC 2017), posters and demos track. (under review) (2017)
+- Laurens Rietveld, Rinke Hoekstra. 2015. [The YASGUI family of SPARQL clients1](http://content.iospress.com/articles/semantic-web/sw197). Semantic Web:1-11. IOS Press.
+- Laurens Rietveld, Wouter Beek, Stefan Schlobach, Rinke Hoekstra. 2016. Semantic Web. [[PDF] from semantic-web-journal.org](http://semantic-web-journal.org/system/files/swj1153.pdf)
+- Auke Rijpma. WP4-demo, Clariah Toogdag 2017, Amsterdam
+- Auke Rijpma. Presentation "Linked data in the Clariah Structured Datahub", CREATE Salon, UvA
+- Auke Rijpma. Presentatie "Brede Welvaartsindicator: Een integrale indicator voor het welbevinden van Nederlanders".
+- Auke Rijpma. Presentation "Linked data in the Clariah Structured Datahub", Global social science research workshop, Pittsburgh
+- Auke Rijpma. (met Tine de Moor) – Wat is citizen science en wat moeten we er mee?, KNAW-symposium citizen science. De betrokkenheid van burgers in het wetenschappelijke proces
+- Auke Rijpma. Presentation "WP4: structured data", CLARIAH-dag, Amersfoort
+- Auke Rijpma. “Combining multiple repositories: the case of the quantity-quality trade-off”. Big Questions, Big Data Conference, International Institute of Social History, Amsterdam.
+- Auke Rijpma. “What can’t money buy? Wellbeing and GDP since 1820”. World Economic History Congress (WEHC), Kyoto.
+- Auke Rijpma. “Quantity versus Quality: Household structure, number of siblings, and educational attainment in the long nineteenth century”, WEHC, Kyoto. (With Sarah Carmichael and Lotte van der Vleuten.)
+- Auke Rijpma. “The Clariah-project and the quantity-quality trade-off : understanding household size and investment in human capital through big data”, Posthumus Conference, Brussels.
+- Auke Rijpma. “Family constraints on women’s agency: measurement and persistence”, Workshop Murdock and Goody Re-visited: (Pre)history and evolution of Eurasian and African family systems. Max Planck Institute for Social Anthropology, Halle.
+- Veruska Zamborlini, Rinke Hoekstra, Marcos da Silveira, Cedric Pruski, Annette ten Teije, Frank van Harmelen. 2016. [Generalizing the Detection of Clinical Guideline Interactions Enhanced with LOD](http://link.springer.com/chapter/10.1007/978-3-319-54717-6_20). International Joint Conference on Biomedical Engineering Systems and Technologies: 360-386. Springer, Cham.
+
+## Awards and grants
+
+- Auke Rijpma, Kathrin Dentler, Rinke Hoekstra, Albert Meroño-Penuela & Richard Zijdeman. TRUMP: The RDF Unified Migration Portal. Scholarship for a research master.
+- Albert Meroño-Peñuela, Rinke Hoekstra. “grlc Makes GitHub Taste Like Linked Data APIs”. SALAD 2016 — Services and Applications over Linked Data APIs and Data. International workshop, ESWC 2016, May 29th, Heraklion, Crete, Greece (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/SALAD2016_paper_4.pdf)) Best [SALAD2016](http://salad2016.linked.services/) paper award
+- Marieke van Erp & Richard Zijdeman. 2016. “If buildings could talk”. Audience Award for demo build during the Royal Library and National Digital Heritage Hack-a-LOD. [[PDF](http://hackalod.com/wp-content/uploads/2016/11/resultatenhackalod_team_clariah_v2.pdf)]
+- Rinke Hoekstra, Albert Meroño-Peñuela, Kathrin Dentler, Auke Rijpma, Richard Zijdeman, Ivo Zandhuis. “An Ecosystem for Linked Humanities Data”. In: Proceedings of the 1st Workshop on Humanities in the SEmantic web (WHiSE 2016). ESWC 2016, May 29th, Heraklion, Crete, Greece (2016). ([PDF](https://www.albertmeronyo.org/wp-content/uploads/2016/04/WHiSe_2016_paper_4.pdf)) Best [WHiSE2016](http://whise.kmi.open.ac.uk/) paper award.
+- Richard Zijdeman & Ashkan Ashkpour. KDP DANS, k€10. (2017). Project name: Linking past and present: Augmenting historical municipality characteristics through harmonization and linkage with contemporary data.
+- Richard Zijdeman, Antske Fokkens, Auke Rijpma & Martijn Kleppe. CLARIAH research call, k€55. (t.b.c. April 2017). HHuCap: The History of Human Capital.
+
+## Books
+
+- Auke Rijpma. Cliometrics and the family: global patterns and diverging development. Berlin: Springer Verlag, forthcoming. (With Claude Diebolt, Sarah Carmichael, Selin Dilli, Charlotte Störmer, eds.)
+- Auke Rijpma. Agency, gender, and economic development in the world economy, 1850–2000: testing the Sen hypothesis. Forthcoming at Routledge/Ashgate Publishing. (With Jan Luiten van Zanden en Jan Kok, eds.)
+
+## Book chapters
+
+- Auke Rijpma. “Quantity versus Quality: Household structure, number of siblings, and educational attainment in the long nineteenth century”. Forthcoming in Van Zanden, Kok and Rijpma eds. Agency, gender, and economic development in the world economy, 1850–2000: testing the Sen hypothesis (with Sarah Carmichael and Lotte van der Vleuten).
+- Auke Rijpma. “Measuring agency”. Forthcoming in Van Zanden, Kok and Rijpma eds. Agency, gender, and economic development in the world economy, 1850–2000: testing the Sen hypothesis (with Sarah Carmichael).
+- Auke Rijpma. “Women in global economic history”. In Joerg Baten (ed.), A History of the Global Economy: From 1500 to the Present (Cambridge: Cambridge University Press). (With Selin Dilli and Sarah Carmichael.)
+
+## Projects
+
+- Auke Rijpma. Record linkage for Cape of Good Hope Panel.
+
+## Teaching and Instruction
+
+- Paul S. Lambert and Richard L. Zijdeman, 2015. *Introduction to Multilevel Models*.
+- Paul S. Lambert and Richard L. Zijdeman, 2016. *Introduction to Multilevel Models*.
+- Auke Rijpma. Introduction R and record linkage at LEAP-conference, South Africa
+- Auke Rijpma. Introduction Linked Data and SPARQL @ Amsterdam ThatCamp
+- Richard L. Zijdeman, 2016d. *Augmenting Historical Data*. [online] Available at: [https://arthist.net/archive/13218/view=pdf](https://arthist.net/archive/13218/view=pdf)
+- Richard L. Zijdeman, 2016e. *Course: Introduction into R*.
+- Richard L. Zijdeman, 2015b. *Workshop: Introduction to R*. [online] Available at: [http://www.ehps-net.eu/sites/default/files/program_cluj_summer_school_2015.pdf](http://www.ehps-net.eu/sites/default/files/program_cluj_summer_school_2015.pdf)
+- Richard L. Zijdeman, 2017b. *Historical Occupational Classification and Stratification Schemes: HISCO, HISCLASS & HISCAM*. [online] Available at: [http://iegd.csic.es/sites/default/files/content/event/2017/programa_del_ciclofbbva2017final_1.pdf](http://iegd.csic.es/sites/default/files/content/event/2017/programa_del_ciclofbbva2017final_1.pdf)
+- Richard L. Zijdeman, 2015a. *The not so U-shaped curve of female labour force participation of married women: The United States, 1860-2010*. [online] Available at: [https://pure.knaw.nl/portal/files/1011394/ushp_lund02.pdf](https://pure.knaw.nl/portal/files/1011394/ushp_lund02.pdf)
+- Richard L. Zijdeman, 2016a. *Advancing the comparability of occupations through Linked Open Data*. [online] Available at: [http://www.ed.lu.se/previous_seminars](http://www.ed.lu.se/previous_seminars)
+- Richard L. Zijdeman, 2016b. *Advancing the comparability of occupations through Linked Open Data*. [online] Available at: [http://www.ed.lu.se/previous_seminars](http://www.ed.lu.se/previous_seminars)
+- Richard L. Zijdeman, 2016c. *Advancing the comparability of occupations through Linked Open Data*. [online] Available at: [http://www.cedar.umu.se/digitalAssets/176/176124_agenda-ehps-net-cedar-database-workshop-16-18-feb-2016.pdf](http://www.cedar.umu.se/digitalAssets/176/176124_agenda-ehps-net-cedar-database-workshop-16-18-feb-2016.pdf)
+- Richard L. Zijdeman, 2016f. *Historical Demography: Reconstructing Life Course Dynamics*. [online] Available at: [http://www.slideshare.net/rlzijdeman/historical-occupational-classification-and-occupational-stratification-schemes](http://www.slideshare.net/rlzijdeman/historical-occupational-classification-and-occupational-stratification-schemes)
+- Richard L. Zijdeman, 2016g. *The not so U-shaped Curve of Female Labour Force Participation of Married Women: the United States, 1860-2010*. [online] Available at: [https://www.slideshare.net/rlzijdeman/labour-force-participation-of-married-women-us-18602010](https://www.slideshare.net/rlzijdeman/labour-force-participation-of-married-women-us-18602010)
+- Richard L. Zijdeman, 2017a. *HISCO to RDF. Anticipating expansion of occupational descriptions and tooling*. Invited Lecture at Stirling University. 13-01-2017.
+- Richard L. Zijdeman, 2017c. *WP4: dataLegend (project update)*. [online] Available at: [https://www.slideshare.net/rlzijdeman/toogdag-2017](https://www.slideshare.net/rlzijdeman/toogdag-2017)
+- Richard L. Zijdeman, Antske Fokkens, Auke Rijpma and Martijn Kleppe, 2017. *HHuCap: The History of HUman Capital*. [online] Available at: [https://www.clariah.nl/evenementen/toog-dag-2017#research-pilot-presentations](https://www.clariah.nl/evenementen/toog-dag-2017#research-pilot-presentations)
+- Richard L. Zijdeman and Marieke van Erp, 2016. *If Buildings Could Talk: Constructing Buildings’ Biographies*. [online] Available at: [http://www.pilod.nl/wiki/Linked_Data_Seminar_-_December_2,_2016](http://www.pilod.nl/wiki/Linked_Data_Seminar_-_December_2,_2016)
+- Richard L. Zijdeman and Rombert Stapel, 2016. *Work in a globalized world. An algorithm allocating labour relations to digitized census data.* [online] Available at: [http://dh2016.adho.org/](http://dh2016.adho.org/)
+- Rombert Stapel and Richard L. Zijdeman, 2016. *The Influence of Educational Attainment on Self-Employment across Occupational Sectors: United States, 1850-2010*. [online] Available at: [https://socialhistory.org/en/events/workshop-self-employment-historical-perspective](https://socialhistory.org/en/events/workshop-self-employment-historical-perspective)
